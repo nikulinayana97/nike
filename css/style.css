@@ -231,7 +231,9 @@ body{
 	text-align: center;
 }
 
-.size-vr:hover{
+.size-vr:hover,
+.size-vr:focus,
+.size-vr: active{
 	border: 0.1vw solid #000;
 }
 
@@ -257,7 +259,8 @@ body{
 }
 
 .btn:hover,
-.btn:focus{
+.btn:focus,
+.btn:active{
 	border: 0.12vw solid #000;
 	background-color: transparent;
 	color: #000;
