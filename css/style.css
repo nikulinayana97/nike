@@ -73,6 +73,10 @@ body{
 
 .b-page_main{
 	margin-top: 6.54vw;
+	box-shadow: 40px 0px 0px -15px rgba(225,225,225,0.4), 
+	    			70px 0px 0px -30px rgba(225,225,225,0.4), 
+				    -40px 0px 0px -15px rgba(225,225,225,0.4), 
+				    -70px 0px 0px -30px rgba(225,225,225,0.4);
 }
 
 .b-page_main-img{
